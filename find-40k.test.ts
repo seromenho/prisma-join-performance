@@ -2,7 +2,7 @@ import { PrismaClient } from '@prisma/client'
 
 const prisma = new PrismaClient()
 
-describe('Find around 20k rows with data from other tables', () => {
+describe('Find around 40k rows with data from other tables', () => {
   it('findMany', async() => {
     await prisma.a.findMany({
       where: {
