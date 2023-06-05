@@ -28,4 +28,4 @@ Doesn't seem it passes the char limit for the query but could be related to the 
 
 ## Possible solution
 
-1. Give the user the choice to execute a real join
+1. Give the user the choice to execute a real join...
